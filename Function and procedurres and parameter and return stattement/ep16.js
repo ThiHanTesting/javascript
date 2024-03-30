@@ -1,4 +1,4 @@
-// callback function
+// callback function part 1
  function sayMyName(name , fun){
     let greeting = fun(name)  // this is a callback function
     console.log(greeting)
